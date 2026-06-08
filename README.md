@@ -365,8 +365,7 @@ Possible extensions include:
 
 **José Arturo Trelles Hernández**
 
-Ph.D. in Astrophysics
 
-Data Analysis • Machine Learning • Scientific Computing
+Data Analysis • Data Science • Machine Learning • Scientific Computing
 
 ---
