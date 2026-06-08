@@ -142,7 +142,7 @@ The second approach was considered more representative because COVID-19 introduc
 
 Business applications remained relatively stable between 2004 and 2015 before entering a period of sustained growth. A dramatic increase occurred following the COVID-19 pandemic.
 
-![Business Applications Over Time](figures/adj_serie.png)
+![Business Applications Over Time](images/adj_serie.png)
 
 ### Key Findings
 
@@ -156,7 +156,7 @@ Business applications remained relatively stable between 2004 and 2015 before en
 
 The 12-month rolling average smooths short-term fluctuations and reveals the long-term trend.
 
-![12-Month Rolling Average](figures/twelve_month_rolling.png)
+![12-Month Rolling Average](images/twelve_month_rolling.png)
 
 ### Key Findings
 
@@ -170,7 +170,7 @@ The 12-month rolling average smooths short-term fluctuations and reveals the lon
 
 Annual growth rates highlight periods of acceleration and contraction.
 
-![Annual Growth Rate](figures/annual_growth.png)
+![Annual Growth Rate](images/annual_growth.png)
 
 ### Key Findings
 
@@ -190,7 +190,7 @@ The five sectors with the largest business application volumes were:
 * Other Services (NAICS81)
 * Administrative and Support Services (NAICS56)
 
-![Top Five Sectors](figures/top5sector.png)
+![Top Five Sectors](images/top5sector.png)
 
 ### Key Findings
 
@@ -202,7 +202,7 @@ Retail Trade and Professional Services consistently generated the highest busine
 
 To identify which sectors contributed the most new applications after COVID-19, absolute changes were calculated.
 
-![Absolute Growth](figures/top_sector_abs.png)
+![Absolute Growth](images/top_sector_abs.png)
 
 ### Key Findings
 
@@ -241,7 +241,7 @@ The model captures the long-term upward trend but underestimates the post-COVID 
 
 A second model was trained using only observations from 2020–2026.
 
-![Forecast Using Post-COVID Data](figures/fore_2020_year.png)
+![Forecast Using Post-COVID Data](images/fore_2020_year.png)
 
 ### Observation
 
