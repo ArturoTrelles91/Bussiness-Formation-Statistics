@@ -229,7 +229,7 @@ This demonstrates why percentage growth should always be interpreted alongside a
 
 A Linear Regression model was trained using annual data from 2004–2026.
 
-![Forecast Using Full Historical Data](figures/fore_all_year.png)
+![Forecast Using Full Historical Data](images/fore_all_year.png)
 
 ### Observation
 
